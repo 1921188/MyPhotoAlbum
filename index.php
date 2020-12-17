@@ -159,7 +159,7 @@ body {
 	
 <div class="footer">
 	<center>
-		<img src="logo.jpg" alt="logo" style="width:200px; height:200px;">
+		<img src="Logo.jpg" alt="logo" style="width:200px; height:200px;">
 	</center>
 </div>
 </body>
